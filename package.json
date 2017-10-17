@@ -1,0 +1,22 @@
+{
+  "name": "@jovanshernandez/new-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jovanshernandez/npm-package-management.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jovanshernandez/npm-package-management/issues"
+  },
+  "homepage": "https://github.com/jovanshernandez/npm-package-management#readme",
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
